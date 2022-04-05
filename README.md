@@ -1,3 +1,4 @@
+![Snake animation](https://raw.githubusercontent.com/FabrWill/FabrWill/c079651a757a2b5a953672f199e6371c39b5f6a9/github-contribution-grid-snake.svg)
 <body>
     <header>
         <h1>For someone get lost in a galaxy far far away</h1>
@@ -46,5 +47,3 @@
         </article>
     </section>
 </body>
-
-![Snake animation](https://raw.githubusercontent.com/FabrWill/FabrWill/c079651a757a2b5a953672f199e6371c39b5f6a9/github-contribution-grid-snake.svg)
