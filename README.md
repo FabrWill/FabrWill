@@ -19,7 +19,9 @@
                 </li>
                 <!--  -->
                 <li class="profile-list__zebra profile-list_with-image">
-                    <span>i like other things like philosophy too. Thanks to my highschool i had the opportunity to participate in a philosophy championship at PUCRS, talking about nietszhe and</span>
+                    i like other things like philosophy too. Thanks to my highschool i had the opportunity to participate in a philosophy championship at PUCRS, talking about nietszhe and philosophy influence in marvel comics.
+                </li>
+                <li>
                     <img style="height: 90px" src="https://i.pinimg.com/originals/cf/24/32/cf2432585cff27526fc22b156f252339.jpg" alt="A Draw Of Nietszche"/>
                 </li>
             </ul>
