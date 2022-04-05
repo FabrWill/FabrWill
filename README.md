@@ -43,26 +43,6 @@
             <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
         </article>
     </section>
-    <style>
-        .profile-list > li {
-            list-style: none;
-        }
-        .profile-list__zebra:nth-child(odd){
-            background-color: rgba(0,0,0,0.18);
-            padding: 8px;
-            margin:8px 0px;
-            border-radius: 4px;
-        }
-        .profile-list_with-image {
-            display: flex;
-        }
-        .profile-list_with-image > span {
-            margin: auto 0px;
-        }
-        .profile-skills-heading {
-            margin-top: 8px;
-        }
-    </style>
 </body>
 
-![Snake animation](https://github.com/FabrWill/FabrWill/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FabrWill/FabrWill/c079651a757a2b5a953672f199e6371c39b5f6a9/github-contribution-grid-snake.svg)
