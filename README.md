@@ -10,20 +10,17 @@
         <article class="about-me">
             <ul class="profile-list">
                 <li class="profile-list__zebra">
-                    i'm have 3 years of experience with developing every type of applications.
+                    i'm have 7 years of experience with developing every type of applications.
                 </li>
                 <li class="profile-list__zebra">
                     I get knowledge about programming and decide to made this my job about my 16's on the highschool
                 </li>
                 <li class="profile-list__zebra">
-                    already have knowledges in Java, PHP, javascript, python, C# and another languages: when you learning the programming logic, learning another language is only change or add words in another places, i guess.
+                    already have knowledges in Java, PHP, javascript, typescript python, C# and another languages: when you learning the programming logic, isn't complicated to change your skills or create new things in any other language.
                 </li>
                 <!--  -->
                 <li class="profile-list__zebra profile-list_with-image">
                     i like other things like philosophy too. Thanks to my highschool i had the opportunity to participate in a philosophy championship at PUCRS, talking about nietszhe and philosophy influence in marvel comics.
-                </li>
-                <li>
-                    <img style="height: 90px" src="https://i.pinimg.com/originals/cf/24/32/cf2432585cff27526fc22b156f252339.jpg" alt="A Draw Of Nietszche"/>
                 </li>
             </ul>
         </article>
