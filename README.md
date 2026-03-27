@@ -4,8 +4,7 @@
         <h1>For someone get lost in a galaxy far far away</h1>
     </header>
     <section>
-        <h3>i'm Full cycle developer with 4 years of experience</h3>
-        <h6>22 years</h6>
+        <h3>Head of engineering at Liqi | AWS & Datadog certified</h3>
         </br>
         <article class="about-me">
             <p>I am a software developer with more than 10 years of experience, working on projects of all sizes and designing scalable, high-performance architectures.
