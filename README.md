@@ -8,21 +8,16 @@
         <h6>22 years</h6>
         </br>
         <article class="about-me">
-            <ul class="profile-list">
-                <li class="profile-list__zebra">
-                    i'm have 7 years of experience with developing every type of applications.
-                </li>
-                <li class="profile-list__zebra">
-                    I get knowledge about programming and decide to made this my job about my 16's on the highschool
-                </li>
-                <li class="profile-list__zebra">
-                    already have knowledges in Java, PHP, javascript, typescript python, C# and another languages: when you learning the programming logic, isn't complicated to change your skills or create new things in any other language.
-                </li>
-                <!--  -->
-                <li class="profile-list__zebra profile-list_with-image">
-                    i like other things like philosophy too. Thanks to my highschool i had the opportunity to participate in a philosophy championship at PUCRS, talking about nietszhe and philosophy influence in marvel comics.
-                </li>
-            </ul>
+            <p>I am a software developer with more than 10 years of experience, working on projects of all sizes and designing scalable, high-performance architectures.
+
+Currently, I am focused on organizing and improving artificial intelligence systems for use in the sales workflows and operational structures of the company where I work. My work emphasizes cultural changes and the adoption of AI to increase both delivery speed and quality.
+
+I have strong experience with languages and frameworks such as Node.js, TypeScript, Python, Java, Spring Boot, PHP, Laravel, and NestJS, as well as modern frontend frameworks like Vue.js, React, and Nuxt.js.
+
+I am also familiar with building intelligent agents, AI pipelines, and natural language processing (NLP) systems, while continuing to work with critical, high-volume data systems. In these environments I apply practices such as CI/CD, observability, event-driven architecture (EDA), and scalable infrastructure on AWS.
+
+I hold the AWS Certified Solutions Architect – Associate certification and work with architectural patterns such as Clean Architecture, Domain-Driven Design (DDD), Event Sourcing, and Hexagonal Architecture, always aiming to build robust, sustainable systems that are ready for intelligent integrations.
+        </p>
         </article>
         <article class="skills">
             <h3>Knowledges</h3>
